@@ -1,0 +1,17 @@
+{"user_id":1,"video_id":100,"event":"created","timestamp":1642663347,"tags":["cute","duck","animals"]}
+{"user_id":4,"video_id":100,"event":"like","timestamp":1642943347}
+{"events":[{"user_id":2,"video_id":100,"event":"like","timestamp":1642953347},{"user_id":2,"video_id":100,"event":"commented","timestamp":1642954347,"comment":"oh, it's so cute!!!!"}]}
+{"user_id":3,"video_id":100,"event":"commented","timestamp":1642964347,"comment":"I will buy my own"}
+{"user_id":1,"video_id":100,"event":"add_tags","timestamp":1642968347,"tags":["food"]}
+{"user_id":5,"video_id":100,"event":"like","timestamp":1642994347}
+{"user_id":6,"video_id":100,"event":"like","timestamp":1642998347}
+{"user_id":3,"video_id":101,"event":"created","timestamp":1642664347,"tags":["travel","bicycle","mountains"]}
+{"user_id":6,"video_id":101,"event":"commented","timestamp":1642675347,"comment":"there is no mountains in video:("}
+{"user_id":2,"video_id":101,"event":"remove_tags","timestamp":1642689347,"tags":["mountains"]}
+{"events":[{"user_id":0,"video_id":101,"event":"like","timestamp":1642690000},{"user_id":7,"video_id":101,"event":"like","timestamp":1642695000}]}
+{"user_id":1,"video_id":101,"event":"like","timestamp":1642703000}
+{"user_id":6,"video_id":101,"event":"like","timestamp":1642753000}
+{"user_id":5,"video_id":101,"event":"like","timestamp":1642783000}
+{"user_id":4,"video_id":101,"event":"like","timestamp":1643143000}
+{"user_id":4,"video_id":101,"event":"commented","timestamp":1643143000,"comment":"Marvelous!!! Please contact me if you want to travel with company Emily.Williams@jmamil.com"}
+{"user_id":4,"video_id":110,"event":"like","timestamp":1643143000}

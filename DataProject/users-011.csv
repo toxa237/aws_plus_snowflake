@@ -1,0 +1,4 @@
+id,fname,lname,email,country,subscription,categories,updated
+2,Alan,Miller,Alan.Miller@jmamil.com,US,1,duck;cute;animals,19.10.2023T12:00:00
+3,Mary,Jones,may.j@bmamil.com,CA,0,animals;cute;travel;bicycle;mountains,21.10.2023T12:00:00
+12,Bob,Williams,Bob.Williams@jmamil.com,CA,1,animals;duck;travel,21.10.2023T12:00:00

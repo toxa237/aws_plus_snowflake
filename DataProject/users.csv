@@ -1,0 +1,13 @@
+id,fname,lname,email,country,subscription,categories,updated
+0,John,Smith,John.Smith@jmamil.com,US,1,animals;duck;cute;travel,20.10.2023T12:00:00
+1,Bob,Johnson,Bob.Johnson@jmamil.com,CA,0,animals;duck;bicycle,20.10.2023T12:00:00
+2,Alan,Miller,Alan.Miller@jmamil.com,US,1,duck;cute;bicycle,20.10.2023T12:00:00
+3,Mary,Jones,Mary.Jones@jmamil.com,CA,0,animals;cute;travel;bicycle;mountains,20.10.2023T12:00:00
+4,Emily,Williams,Emily.Williams@jmamil.com,UK,0,animals;duck,20.10.2023T12:00:00
+5,Laura,Anderson,Laura.Anderson@jmamil.com,US,1,food;cute,20.10.2023T12:00:00
+6,Mary,Smith,Mary.Smith@jmamil.com,CA,0,animals;food;travel;mountains,20.10.2023T12:00:00
+7,Bob,Miller,Bob.Miller@jmamil.com,US,1,animals;food;travel;bicycle,20.10.2023T12:00:00
+8,Mary,Anderson,Mary.Anderson@jmamil.com,UK,0,animals;food;travel;bicycle,20.10.2023T12:00:00
+9,Bob,Anderson,xxx,xxx,xx,xx,20.10.2023T12:00:00
+10,Alan,Jones,Alan.Jones@jmamil.com,UK,0,
+11,,,,,,,
